@@ -1,0 +1,19 @@
+galaxy_info:
+  author: Paulin Shah
+  description: Dummy Ansible role for demo
+  company: Alpa Lumber
+
+  license: MIT
+
+  min_ansible_version: "2.9"
+
+  platforms:
+    - name: EL
+      versions:
+        - all
+
+galaxy_tags:
+  - web
+  - demo
+
+dependencies: []
